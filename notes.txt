@@ -1,0 +1,4 @@
+
+curl --request GET \
+  --url 'https://api.spotify.com/v1/me/tracks?limit=1&offset=0' \
+  --header 'Authorization: Bearer 1POdFZRZbvb...qqillRxMr2z'
